@@ -1,2 +1,2 @@
 # devweekgit.github.io
-Curriculo Jornada Dev
+here you will find mine CV made in html and css
